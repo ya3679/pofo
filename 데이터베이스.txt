@@ -1,0 +1,15 @@
+
+데이터베이스 관리자페이지
+php 웹서버스크립트 언어페이지
+MYSQL 데이터베이스 언어
+
+
+
+yaun97929.dothome.co.kr/myadmin/
+테이블이름
+member_mail
+
+홈페이지 경로
+yaun97929.dothome.co.kr/member_mail2/
+
+yaun97929.dothome.co.kr/member_mail/select_member.php
